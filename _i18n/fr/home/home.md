@@ -10,17 +10,17 @@ Idéalement, pour tout groupe ou personne qui veut porter une idée, un initiati
 
 ## 🤔 Une question ?
 
-Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou envoyez un message privé a André, on vous répond avec plaisir.
+Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou [envoyez un message privé a André](https://twitter.com/lambda_2), on/il vous répondra avec plaisir.
 
 ## 👋 Envie de participer ?
 
 Une première version stable, très minimale, devrait voir le jour d'ici une ou deux semaines. Si ca vous dirait de jeter un oeil et de donner votre avis, ca nous aiderait beaucoup !
 
-[Vous pouvez vous inscrire ici !](https://forms.gle/SNkUNi7MSMoELBwQ9)
+[Vous pouvez vous inscrire ici !](https://forms.gle/baBm457sSXcpywn48)
 
 Une fois que le site sera accessible à tous, **on espère contruire Luua sur... Luua !**
 
-## 🛎 Questions courantes
+## 🛎 FAQ
 
 - **Pourquoi une énième plateforme ?**
 On n'a pas trouvé de plateforme qui coche toutes les cases, qui sont: échanger, prendre des décisions, proposer des missions, gratuit, sécurisé et libre.
@@ -43,3 +43,13 @@ Principalement André Aubin (dev et initiateur du projet), Evan Rocklan (dev) et
 
 - **Pourquoi "Luua" ?**
 On a dérivé de ["Luau"](https://youtu.be/r3JAM1nuNAk?t=20), qui est une célébration traditionnelle Hawaiienne.
+
+## 🏭 On recrute !
+
+On cherche des bénévoles pour nos donner un coup de main ou nous conseiller.
+Actuellent, on a surtout besoin de:
+
+- **Béta testeurs**, pour essuyer les pots cassés.
+- **UI/UX designer**, pour être sur que les utilisateurs ne se perdent pas.
+- **Dévelopeur/se backend Ruby on Rails**, pour travailler sur le backend et l'API.
+- **Dévelopeur/se frontend Typescript/NextJS**, pour travailler sur l'application frontend.

@@ -258,3 +258,19 @@ body {
 p {
   font-family: 'Inter', sans-serif;
 }
+
+
+h2 {
+  margin-top: $spacing-unit / 1;
+  margin-bottom: $spacing-unit / 1.5;
+}
+
+h3 {
+  margin-top: $spacing-unit / 1.5;
+  margin-bottom: $spacing-unit / 1.8;
+}
+
+h4 {
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+}
