@@ -36,10 +36,6 @@ A partir du moment ou il y a quelque chose à construire, les possibilitées son
 - Etc...
 
 
-## 🤔 Une question ?
-
-Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou [envoyez un message privé a André](https://twitter.com/lambda_2), on/il vous répondra avec plaisir.
-
 
 ## 🛎 FAQ
 
@@ -47,10 +43,13 @@ Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou [envoyez un mes
 On n'a pas trouvé de plateforme qui coche toutes les cases, qui sont: échanger, prendre des décisions, proposer des missions, gratuit, sécurisé et libre.
 
 - **C'est gratuit ?**
-Oui
+Oui, pour toujours, promis.
 
 - **C'est libre ?**
 Oui, sous licence GNU-GPL v3. Le code est disponible sur <a href="https://github.com/{{ site.github_username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg><span class="username">Github</span></a>.
+
+- **On pourra gagner de l'argent ?**
+Non. On envisage de récompenser, d'une manière ou d'une autre, les personnes qui effectuent des missions bénévoles, mais on ne sait pas si c'est sain 🤔. [Si vous un avis la dessus, écrivez nous un mail](mailto:hello@luua.io).
 
 - **Il y a un chat ou un endroit pour discuter ?**
 Nous sommes peu nombreux à travailler sur le projet, tout se fait donc par mail/Signal/Keybase.
@@ -69,12 +68,18 @@ On a trouvé raisonnable de commencer en Francais, mais on a mis en place toutes
 - **Pourquoi "Luua" ?**
 On a dérivé de ["Luau"](https://youtu.be/r3JAM1nuNAk?t=20), qui est une célébration traditionnelle Hawaiienne.
 
-## 🏭 On recrute !
+## 🤔 Une question ?
+
+Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou [envoyez un message privé a André](https://twitter.com/lambda_2), on/il vous répondra avec plaisir.
+
+## 🎢 On recrute !
 
 On cherche des bénévoles pour nos donner un coup de main ou nous conseiller.
 Actuellent, on a surtout besoin de:
 
-- **Béta testeurs**, pour essuyer les pots cassés.
+- **Beta testeurs**, pour essuyer les plâtres.
+- **Graphistes**. On a pas de logo, pas d'illustrations et une charte graphique très simple. Bref, c'est carte blanche.
+- **Écrivains** (ou apparentés). Comme le montre cette page, on ne sait pas vraiment trouver les mots justes quand il le faudrait.
 - **UI/UX designer**, pour être sur que les utilisateurs ne se perdent pas.
 - **Dévelopeur/se backend Ruby on Rails**, pour travailler sur le backend et l'API.
 - **Dévelopeur/se frontend Typescript/NextJS**, pour travailler sur l'application frontend.
