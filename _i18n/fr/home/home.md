@@ -6,6 +6,19 @@ C'est une plateforme en ligne (encore une) qui permettra de fluidifier les écha
 ## 🧙🏼‍ Pour qui ?
 
 Idéalement, pour tout groupe ou personne qui veut porter une idée, un initiative ou un projet.
+Par exemple:
+
+- Une association peut proposer et coordoner des missions bénévoles.
+
+- Un groupe de scientifiques peut faire soumettre un papier pour relecture.
+
+- Un artiste peut demander un millier d'images pour en faire une toile géante.
+
+- Un élu local peut demander à ses administrés si on fait un passage clouté devant la boulangerie de Madame Michou.
+
+- Des "makers" peuvent demander a la communautée d'imprimer en 3D une pièce spécifique.
+
+Etc... Les possibilitées sont vastes.
 
 
 ## 🤔 Une question ?
@@ -29,7 +42,7 @@ On n'a pas trouvé de plateforme qui coche toutes les cases, qui sont: échanger
 Oui
 
 - **C'est libre ?**
-Oui, sous licence GNU-GPL v3
+Oui, sous licence GNU-GPL v3. Le code est disponible sur <a href="https://github.com/{{ site.github_username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg><span class="username">Github</span></a>.
 
 - **Il y a un chat ou un endroit pour discuter ?**
 Nous sommes peu nombreux à travailler sur le projet, tout se fait donc par mail/Signal/Keybase.
@@ -40,6 +53,9 @@ Pour l'instant aucun. Luua n'a pas de but lucratif, et se tournera à terme (si 
 
 - **Qui travaille sur ce projet ?**
 Principalement André Aubin (dev et initiateur du projet), Evan Rocklan (dev) et Emily Banken (juridique et vie privée). Si vous voulez nous rejoindre, on a désespérément besoin de vous.
+
+- **Pourquoi pas en Anglais ?**
+On a trouvé raisonnable de commencer en Francais, mais on a mis en place toutes les briques pour internationaliser Luua très facilement. L'anglais et d'autres langues viendront dès que la plateforme sera stable.
 
 - **Pourquoi "Luua" ?**
 On a dérivé de ["Luau"](https://youtu.be/r3JAM1nuNAk?t=20), qui est une célébration traditionnelle Hawaiienne.
