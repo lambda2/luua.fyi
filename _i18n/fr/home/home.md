@@ -2,7 +2,7 @@
 ## 💃 En bref
 
 <div class="hero">
-C'est une plateforme en ligne (encore une) qui permettra de fluidifier les échanges, de proposer des idées, de prendre des décisions ensemble et de proposer des missions à un groupe ou à toute la communauté.
+C'est une plateforme en ligne qui permettra de fluidifier les échanges, de proposer des idées, de prendre des décisions ensemble et de proposer des missions à un groupe ou à toute la communauté.
 </div>
 
 
