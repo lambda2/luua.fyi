@@ -1,0 +1,9 @@
+---
+titles:
+  home: "Home"
+  about: "About"
+global:
+  english: 'Anglais'
+  french: 'Francais'
+Home: "Home"
+About: "About"
