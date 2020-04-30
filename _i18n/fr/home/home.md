@@ -16,7 +16,7 @@ Une fois que le site sera accessible à tous, **on espère contruire Luua avec..
 
 ## 🧙🏼‍ Pour qui ?
 
-Idéalement, **pour tout groupe ou personne qui veut porter une idée, un initiative ou un projet**.
+Idéalement, **pour tout groupe ou personne qui veut porter une idée, une initiative ou un projet**.
 On se focalise pour l'instant sur les projects à but non lucratifs, les associations et les NGO.
 
 A partir du moment ou il y a quelque chose à construire, les possibilitées sont vastes.
