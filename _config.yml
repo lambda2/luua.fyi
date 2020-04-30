@@ -21,7 +21,7 @@
 title: Luua
 email: hello@luua.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Le blog de Luua, une plateforme pour construire ensemble.
+  Le blog de Luua
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lambda_2

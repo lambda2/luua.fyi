@@ -1,11 +1,17 @@
 
 ## 💃 En bref
 
+<div class="hero">
 C'est une plateforme en ligne (encore une) qui permettra de fluidifier les échanges, de proposer des idées, de prendre des décisions ensemble et de proposer des missions au groupe ou à toute la communauté.
+</div>
 
 ## 🧙🏼‍ Pour qui ?
 
 Idéalement, pour tout groupe ou personne qui veut porter une idée, un initiative ou un projet.
+On se focalise pour l'instant sur les projects à but non lucratifs, les associations et les NGO.
+
+A partir du moment ou il y a quelque chose à construire, les possibilitées sont vastes.
+
 Par exemple:
 
 - Une association peut proposer et coordoner des missions bénévoles.
@@ -18,7 +24,7 @@ Par exemple:
 
 - Des "makers" peuvent demander a la communautée d'imprimer en 3D une pièce spécifique.
 
-Etc... Les possibilitées sont vastes.
+- Etc... 
 
 
 ## 🤔 Une question ?
@@ -52,7 +58,8 @@ On fera un serveur Discord si il y a assez de monde.
 Pour l'instant aucun. Luua n'a pas de but lucratif, et se tournera à terme (si besoin) vers les dons et les subventions.
 
 - **Qui travaille sur ce projet ?**
-Principalement André Aubin (dev et initiateur du projet), Evan Rocklan (dev) et Emily Banken (juridique et vie privée). Si vous voulez nous rejoindre, on a désespérément besoin de vous.
+Principalement André Aubin (dev et initiateur du projet), Evan Rocklan (dev) et Emily Banken (juridique et vie privée).
+Si vous voulez nous rejoindre, on a désespérément besoin de vous.
 
 - **Pourquoi pas en Anglais ?**
 On a trouvé raisonnable de commencer en Francais, mais on a mis en place toutes les briques pour internationaliser Luua très facilement. L'anglais et d'autres langues viendront dès que la plateforme sera stable.
