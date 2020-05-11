@@ -2,11 +2,11 @@
 # 💃 En bref
 
 <div class="hero">
-<p>C'est une plateforme en ligne qui permet aux membres d'une communautée d'échanger, de proposer des idées, de prendre des décisions, proposer des missions et travailler ensemble.</p>
-<p>On veut que chacun puisse porter des initiatives, gérer des projets et construire de belles choses aux côtés d'autres contributeurs.</p>
+<p>Luua permet aux membres d'une communautée d'échanger, de proposer des idées, de prendre des décisions, proposer des missions et travailler ensemble.</p>
+<p>Pour que chacun puisse porter des initiatives, gérer des projets et construire aux côtés d'autres contributeurs.</p>
 </div>
 
-Si vous êtes familliers avec le développement informatique, vous pouvez voir ca comme un "Github" pour le monde physique.
+<!-- Si vous êtes familliers avec le développement informatique, vous pouvez voir ca comme un "Github" pour le monde physique. -->
 
 # 🛠 Comment ça marche ?
 
