@@ -211,9 +211,14 @@
 .hero {
   background-color: rgba(223, 139, 0, 0.05);
   padding: $spacing-unit / 1.2;
+  margin: $spacing-unit / 1.2 0;
   border: 1px solid rgba(223, 139, 0, 0.2);;
   border-radius: 3px;
-  font-size: $base-font-size * 1.25;
+  font-size: $base-font-size * 1.2;
+
+  p:last-child {
+    margin-bottom: 0
+  }
 }
 
 /**

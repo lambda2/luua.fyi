@@ -1,23 +1,34 @@
 
-## 💃 En bref
+# 💃 En bref
 
 <div class="hero">
-C'est une plateforme en ligne qui permettra de fluidifier les échanges, de proposer des idées, de prendre des décisions ensemble et de proposer des missions à un groupe ou à toute la communauté.
+<p>C'est une plateforme en ligne qui permet aux membres d'une communautée d'échanger, de proposer des idées, de prendre des décisions, proposer des missions et travailler ensemble.</p>
+<p>On veut que chacun puisse porter des initiatives, gérer des projets et construire de belles choses aux côtés d'autres contributeurs.</p>
 </div>
 
+Si vous êtes familliers avec le développement informatique, vous pouvez voir ca comme un "Github" pour le monde physique.
 
-## 👋 Envie de participer ?
+# 🛠 Comment ça marche ?
 
-Une première version stable, très minimale, devrait voir le jour d'ici une ou deux semaines. Si ca vous dirait de jeter un oeil et de donner votre avis, ca nous aiderait beaucoup !
+Sur Luua, les communautées[^1] sont représentées sous la forme d'**espaces**. Tout le monde peut créer son propre espace, ou rejoindre des espaces existants pour y contribuer. Tous les membres d'un espace peuvent y proposer des **discussions**, des **votes** ou des **missions**.
 
-[Vous pouvez vous inscrire ici !](https://forms.gle/baBm457sSXcpywn48)
+Le schéma "classique" étant de discuter de quelque chose, décider si on le fait, et le faire.
 
-Une fois que le site sera accessible à tous, **on espère contruire Luua avec... Luua !**
+## 1. Les discussions
+Une discussion permet aux membre d'un **espace** d'échanger et de débattre d'une idée, d'un problème, ou d'à peu pres n'importe quoi. Vous pouvez voir ça comme un formum pour les membre d'un espace.
 
-## 🧙🏼‍ Pour qui ?
+## 2. Les votes
+Un vote permet de prendre des décisions de manière collective et sécurisée, selon vos règles. Majoritaire[^2] ? Absolu ? Anonyme ? C'est vous qui voyez. Un vote peut découler d'une discussion.
+
+## 3. Les missions
+Enfin, les missions sont les tâches qui permettent à l'initiative d'avancer.
+Une mission peut exiger des compétences spécifiques, et peut être ouverte au public, pour permettre à chacun d'apporter sa pierre à l'édifice.
+
+
+# 🧙🏼‍ Pour qui ?
 
 Idéalement, **pour tout groupe ou personne qui veut porter une idée, une initiative ou un projet**.
-On se focalise pour l'instant sur les projects à but non lucratifs, les associations et les NGO.
+On se focalise pour l'instant sur les projets à but non lucratifs, les associations et les ONG.
 
 A partir du moment ou il y a quelque chose à construire, les possibilitées sont vastes.
 
@@ -36,8 +47,16 @@ A partir du moment ou il y a quelque chose à construire, les possibilitées son
 - Etc...
 
 
+# 👋 Envie de participer ?
 
-## 🛎 FAQ
+Une première version stable, très minimaliste, devrait voir le jour d'ici une ou deux semaines. Si ca vous dirait de jeter un oeil et de donner votre avis, ca nous aiderait beaucoup !
+
+[Vous pouvez vous inscrire ici !](https://forms.gle/baBm457sSXcpywn48)
+
+Une fois que le site sera accessible à tous, **on espère construire Luua avec... Luua !**
+
+
+# 🛎 FAQ
 
 - **Pourquoi une énième plateforme ?**
 On n'a pas trouvé de plateforme qui coche toutes les cases, qui sont: échanger, prendre des décisions, proposer des missions, gratuit, sécurisé et libre.
@@ -48,11 +67,11 @@ Oui, pour toujours, promis.
 - **C'est libre ?**
 Oui, sous licence GNU-GPL v3. Le code est disponible sur <a href="https://github.com/{{ site.github_username }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg><span class="username">Github</span></a>.
 
-- **On pourra gagner de l'argent ?**
+- **On pourra y gagner de l'argent ?**
 Non. On envisage de récompenser, d'une manière ou d'une autre, les personnes qui effectuent des missions bénévoles, mais on ne sait pas si c'est sain 🤔. [Si vous un avis la dessus, écrivez nous un mail](mailto:hello@luua.io).
 
 - **Il y a un chat ou un endroit pour discuter ?**
-Nous sommes peu nombreux à travailler sur le projet, tout se fait donc par mail/Signal/Keybase.
+Nous sommes peu nombreux à travailler sur le projet, tout se fait donc par mail/Signal.
 On fera un serveur Discord si il y a assez de monde.
 
 - **Quel financement ?**
@@ -68,11 +87,11 @@ On a trouvé raisonnable de commencer en Francais, mais on a mis en place toutes
 - **Pourquoi "Luua" ?**
 On a dérivé de ["Luau"](https://youtu.be/r3JAM1nuNAk?t=20), qui est une célébration traditionnelle Hawaiienne.
 
-## 🤔 Une question ?
+# 🤔 Une question ?
 
 Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou [envoyez un message privé a André](https://twitter.com/lambda_2), on/il vous répondra avec plaisir.
 
-## 🎢 On recrute !
+# 🎢 On recrute !
 
 On cherche des bénévoles pour nos donner un coup de main ou nous conseiller.
 Actuellent, on a surtout besoin de:
@@ -83,3 +102,14 @@ Actuellent, on a surtout besoin de:
 - **UI/UX designer**, pour être sur que les utilisateurs ne se perdent pas.
 - **Dévelopeur/se backend Ruby on Rails**, pour travailler sur le backend et l'API.
 - **Dévelopeur/se frontend Typescript/NextJS**, pour travailler sur l'application frontend.
+
+
+<br/>
+<br/>
+
+--------
+
+<br/>
+
+[^1]: Un groupe de personnes, une association, une entreprise, une ONG, etc...
+[^2]: [Les modes de scrutin sur Wikipedia](https://fr.wikipedia.org/wiki/Syst%C3%A8me_%C3%A9lectoral#Les_modes_de_scrutin_majoritaire)
