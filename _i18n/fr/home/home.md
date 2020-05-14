@@ -2,7 +2,7 @@
 # 💃 En bref
 
 <div class="hero">
-<p>Luua permet aux membres d'une communautée d'échanger, de proposer des idées, de prendre des décisions, proposer des missions et travailler ensemble.</p>
+<p>Luua permet aux membres d'une communauté d'échanger, de proposer des idées, de prendre des décisions, proposer des missions et travailler ensemble.</p>
 <p>Pour que chacun puisse porter des initiatives, gérer des projets et construire aux côtés d'autres contributeurs.</p>
 </div>
 
@@ -10,7 +10,7 @@
 
 # 🛠 Comment ça marche ?
 
-Sur Luua, les communautées[^1] sont représentées sous la forme d'**espaces**. Tout le monde peut créer son propre espace, ou rejoindre des espaces existants pour y contribuer. Tous les membres d'un espace peuvent y proposer des **discussions**, des **votes** ou des **missions**.
+Sur Luua, les communautés[^1] sont représentées sous la forme d'**espaces**. Tout le monde peut créer son propre espace, ou rejoindre des espaces existants pour y contribuer. Tous les membres d'un espace peuvent y proposer des **discussions**, des **votes** ou des **missions**.
 
 Le schéma "classique" étant de discuter de quelque chose, décider si on le fait, et le faire.
 
@@ -42,7 +42,7 @@ A partir du moment ou il y a quelque chose à construire, les possibilitées son
 
 - Un élu local peut demander à ses administrés si on fait un passage clouté devant la boulangerie de Madame Michou.
 
-- Des "makers" peuvent demander a la communautée d'imprimer en 3D une pièce spécifique.
+- Des "makers" peuvent demander a la communauté d'imprimer en 3D une pièce spécifique.
 
 - Etc...
 
