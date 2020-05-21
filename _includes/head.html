@@ -4,6 +4,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <script type="text/javascript" src="{{ "/assets/lightbox.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ "/assets/lightbox.css" | relative_url }}">
+  <script>
+      lightbox.option({
+        'resizeDuration': 0,
+        'fadeDuration': 0,
+        'imageFadeDuration': 0,
+        'wrapAround': true
+      })
+  </script>
+
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}

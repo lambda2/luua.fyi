@@ -17,13 +17,13 @@ Le schéma "classique" étant de discuter de quelque chose, décider si on le fa
 ## 1. Les discussions
 Une discussion permet aux membre d'un **espace** d'échanger et de débattre d'une idée, d'un problème, ou d'à peu pres n'importe quoi. Vous pouvez voir ça comme un formum pour les membre d'un espace.
 
+
 ## 2. Les votes
 Un vote permet de prendre des décisions de manière collective et sécurisée, selon vos règles. Majoritaire[^2] ? Absolu ? Anonyme ? C'est vous qui voyez. Un vote peut découler d'une discussion.
 
 ## 3. Les missions
 Enfin, les missions sont les tâches qui permettent à l'initiative d'avancer.
 Une mission peut exiger des compétences spécifiques, et peut être ouverte au public, pour permettre à chacun d'apporter sa pierre à l'édifice.
-
 
 # 🧙🏼‍ Pour qui ?
 
@@ -55,6 +55,18 @@ Une première version stable, très minimaliste, devrait voir le jour d'ici une 
 
 Une fois que le site sera accessible à tous, **on espère construire Luua avec... Luua !**
 
+# 🖼 Quelques screenshots
+
+
+<div class="gallery">
+{% lightbox /assets/images/luua-space-home.png --thumb="/assets/images/luua-space-home.png" --data="Luua" --title="Un espace" --alt="Un espace" --class="thumb-img" %}
+
+{% lightbox /assets/images/luua-space-discussion.png --thumb="/assets/images/luua-space-discussion.png" --data="Luua" --title="Une discussion" --alt="Une discussion" --class="thumb-img" %}
+
+{% lightbox /assets/images/luua-space-mission.png --thumb="/assets/images/luua-space-mission.png" --data="Luua" --title="Une mission" --alt="Une mission" --class="thumb-img" %}
+
+{% lightbox /assets/images/luua-create-mission.png --thumb="/assets/images/luua-create-mission.png" --data="Luua" --title="Une mission" --alt="Une mission" --class="thumb-img" %}
+</div>
 
 # 🛎 FAQ
 
