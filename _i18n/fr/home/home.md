@@ -6,7 +6,7 @@
 <p>Pour que chacun puisse porter des initiatives, gérer des projets et construire aux côtés d'autres contributeurs.</p>
 </div>
 
-<!-- Si vous êtes familliers avec le développement informatique, vous pouvez voir ca comme un "Github" pour le monde physique. -->
+<!-- Si vous êtes familiers avec le développement informatique, vous pouvez voir ca comme un "Github" pour le monde physique. -->
 
 # 🛠 Comment ça marche ?
 
@@ -15,7 +15,7 @@ Sur Luua, les communautés[^1] sont représentées sous la forme d'**espaces**. 
 Le schéma "classique" étant de discuter de quelque chose, décider si on le fait, et le faire.
 
 ## 1. Les discussions
-Une discussion permet aux membre d'un **espace** d'échanger et de débattre d'une idée, d'un problème, ou d'à peu pres n'importe quoi. Vous pouvez voir ça comme un formum pour les membre d'un espace.
+Une discussion permet aux membre d'un **espace** d'échanger et de débattre d'une idée, d'un problème, ou d'à peu près n'importe quoi. Vous pouvez voir ça comme un forum pour les membre d'un espace.
 
 
 ## 2. Les votes
@@ -34,7 +34,7 @@ A partir du moment ou il y a quelque chose à construire, les possibilitées son
 
 **Par exemple:**
 
-- Une association peut proposer et coordoner des missions bénévoles, trouver des profils précis et suivre les candidatures.
+- Une association peut proposer et coordonner des missions bénévoles, trouver des profils précis et suivre les candidatures.
 
 - Un groupe de scientifiques peut faire soumettre un papier pour relecture.
 
@@ -97,7 +97,7 @@ Si vous voulez nous rejoindre, on a désespérément besoin de vous.
 On a trouvé raisonnable de commencer en Francais, mais on a mis en place toutes les briques pour internationaliser Luua très facilement. L'anglais et d'autres langues viendront dès que la plateforme sera stable.
 
 - **Pourquoi "Luua" ?**
-On a dérivé de ["Luau"](https://youtu.be/r3JAM1nuNAk?t=20), qui est une célébration traditionnelle Hawaiienne.
+On a dérivé de ["Luau"](https://youtu.be/r3JAM1nuNAk?t=20), qui est une célébration traditionnelle Hawaïenne.
 
 # 🤔 Une question ?
 
@@ -106,7 +106,7 @@ Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou [envoyez un mes
 # 🎢 On recrute !
 
 On cherche des bénévoles pour nos donner un coup de main ou nous conseiller.
-Actuellent, on a surtout besoin de:
+Actuellement, on a surtout besoin de:
 
 - **Beta testeurs**, pour essuyer les plâtres.
 - **Graphistes**. On a pas de logo, pas d'illustrations et une charte graphique très simple. Bref, c'est carte blanche.
