@@ -2,20 +2,19 @@
 # 💃 En bref
 
 <div class="hero">
-<p>Luua permet aux membres d'une communauté d'échanger, de proposer des idées, de prendre des décisions, proposer des missions et travailler ensemble.</p>
-<p>Pour que chacun puisse porter des initiatives, gérer des projets et construire aux côtés d'autres contributeurs.</p>
+<p>Luua propose aux communautés une plateforme où ses membres pourront échanger, débattre et collaborer.</p>
 </div>
 
 <!-- Si vous êtes familiers avec le développement informatique, vous pouvez voir ça comme un "Github" pour le monde physique. -->
 
 # 🛠 Comment ça marche ?
 
-Sur Luua, les communautés[^1] sont représentées sous la forme d'**espaces**. Tout le monde peut créer son propre espace, ou rejoindre des espaces existants pour y contribuer. Tous les membres d'un espace peuvent y proposer des **discussions**, des **votes** ou des **missions**.
+Sur Luua, les communautés[^1] sont représentées sous la forme d'**espaces**. Tout le monde peut créer son propre espace, ou rejoindre des espaces existants. Tous les membres d'un espace peuvent y proposer des **discussions**, des **votes** ou des **missions**.
 
-Le schéma "classique" étant de discuter de quelque chose, décider si on le fait, et le faire.
+Le schéma classique est de proposer une idée, d'en débattre et de se mettre à l'action après un consensus.
 
 ## 1. Les discussions
-Une discussion permet aux membre d'un **espace** d'échanger et de débattre d'une idée, d'un problème, ou d'à peu près n'importe quoi. Vous pouvez voir ça comme un forum pour les membre d'un espace.
+Une discussion permet aux membre d'un **espace** d'échanger et de débattre d'une idée; vous pouvez voir ça comme un forum.
 
 
 ## 2. Les votes
@@ -28,7 +27,7 @@ Une mission peut exiger des compétences spécifiques, et peut être ouverte au 
 # 🧙🏼‍ Pour qui ?
 
 Idéalement, **pour tout groupe ou personne qui veut porter une idée, une initiative ou un projet**.
-On se focalise pour l'instant sur les projets à but non lucratifs, les associations et les ONG.
+On se focalise pour l'instant sur les projets à but non lucratif, les associations et les ONG.
 
 À partir du moment où il y a quelque chose à construire, les possibilitées sont vastes.
 
@@ -36,7 +35,7 @@ On se focalise pour l'instant sur les projets à but non lucratifs, les associat
 
 - Une association peut proposer et coordonner des missions bénévoles, trouver des profils précis et suivre les candidatures.
 
-- Un groupe de scientifiques peut faire soumettre un papier pour relecture.
+- Un groupe de scientifiques peut faire relire un papier.
 
 - Un artiste peut demander un millier d'images pour en faire une toile géante.
 
