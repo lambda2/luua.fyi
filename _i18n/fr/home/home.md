@@ -6,7 +6,7 @@
 <p>Pour que chacun puisse porter des initiatives, gérer des projets et construire aux côtés d'autres contributeurs.</p>
 </div>
 
-<!-- Si vous êtes familiers avec le développement informatique, vous pouvez voir ca comme un "Github" pour le monde physique. -->
+<!-- Si vous êtes familiers avec le développement informatique, vous pouvez voir ça comme un "Github" pour le monde physique. -->
 
 # 🛠 Comment ça marche ?
 
@@ -30,7 +30,7 @@ Une mission peut exiger des compétences spécifiques, et peut être ouverte au 
 Idéalement, **pour tout groupe ou personne qui veut porter une idée, une initiative ou un projet**.
 On se focalise pour l'instant sur les projets à but non lucratifs, les associations et les ONG.
 
-A partir du moment ou il y a quelque chose à construire, les possibilitées sont vastes.
+À partir du moment où il y a quelque chose à construire, les possibilitées sont vastes.
 
 **Par exemple:**
 
@@ -42,14 +42,14 @@ A partir du moment ou il y a quelque chose à construire, les possibilitées son
 
 - Un élu local peut demander à ses administrés si on fait un passage clouté devant la boulangerie de Madame Michou.
 
-- Des "makers" peuvent demander a la communauté d'imprimer en 3D une pièce spécifique.
+- Des "makers" peuvent demander à la communauté d'imprimer en 3D une pièce spécifique.
 
 - Etc...
 
 
 # 👋 Envie de participer ?
 
-Une première version stable, très minimaliste, devrait voir le jour d'ici une ou deux semaines. Si ca vous dirait de jeter un oeil et de donner votre avis, ca nous aiderait beaucoup !
+Une première version stable, très minimaliste, devrait voir le jour d'ici une ou deux semaines. Si vous jetiez un œil et donniez votre avis, ça nous aiderait beaucoup !
 
 [Vous pouvez vous inscrire ici !](https://forms.gle/baBm457sSXcpywn48)
 
@@ -71,7 +71,7 @@ Une fois que le site sera accessible à tous, **on espère construire Luua avec.
 # 🛎 FAQ
 
 - **Pourquoi une énième plateforme ?**
-On n'a pas trouvé de plateforme qui coche toutes les cases, qui sont: échanger, prendre des décisions, proposer des missions, gratuit, sécurisé et libre.
+On n'a pas trouvé de plateforme qui coche toutes les cases, qui sont: échanger, prendre des décisions, proposer des missions, gratuite, sécurisée et libre.
 
 - **C'est gratuit ?**
 Oui, pour toujours, promis.
@@ -84,7 +84,7 @@ Non. On envisage de récompenser, d'une manière ou d'une autre, les personnes q
 
 - **Il y a un chat ou un endroit pour discuter ?**
 Nous sommes peu nombreux à travailler sur le projet, tout se fait donc par mail/Signal.
-On fera un serveur Discord si il y a assez de monde.
+On fera un serveur Discord s'il y a assez de monde.
 
 - **Quel financement ?**
 Pour l'instant aucun. Luua n'a pas de but lucratif, et se tournera à terme (si besoin) vers les dons et les subventions.
@@ -94,7 +94,7 @@ Principalement André Aubin (dev et initiateur du projet), Evan Rocklan (dev) et
 Si vous voulez nous rejoindre, on a désespérément besoin de vous.
 
 - **Pourquoi pas en anglais ?**
-On a trouvé raisonnable de commencer en Francais, mais on a mis en place toutes les briques pour internationaliser Luua très facilement. L'anglais et d'autres langues viendront dès que la plateforme sera stable.
+On a trouvé raisonnable de commencer en français, mais on a mis en place toutes les briques pour internationaliser Luua très facilement. L'anglais et d'autres langues viendront dès que la plateforme sera stable.
 
 - **Pourquoi "Luua" ?**
 On a dérivé de ["Luau"](https://youtu.be/r3JAM1nuNAk?t=20), qui est une célébration traditionnelle Hawaïenne.
@@ -105,13 +105,13 @@ Envoyez nous un mail à [hello@luua.io](mailto:hello@luua.io) ou [envoyez un mes
 
 # 🎢 On recrute !
 
-On cherche des bénévoles pour nos donner un coup de main ou nous conseiller.
+On cherche des bénévoles pour nous donner un coup de main ou nous conseiller.
 Actuellement, on a surtout besoin de:
 
 - **Beta testeurs**, pour essuyer les plâtres.
-- **Graphistes**. On a pas de logo, pas d'illustrations et une charte graphique très simple. Bref, c'est carte blanche.
+- **Graphistes**. On n'a pas de logo, pas d'illustrations et une charte graphique très simple. Bref, c'est carte blanche.
 - **Écrivains** (ou apparentés). Comme le montre cette page, on ne sait pas vraiment trouver les mots justes quand il le faudrait.
-- **UI/UX designer**, pour être sur que les utilisateurs ne se perdent pas.
+- **UI/UX designer**, pour être sûr que les utilisateurs ne se perdent pas.
 - **Dévelopeur/se backend Ruby on Rails**, pour travailler sur le backend et l'API.
 - **Dévelopeur/se frontend Typescript/NextJS**, pour travailler sur l'application frontend.
 
